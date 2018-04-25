@@ -6,7 +6,7 @@ class Eve < Formula
   homepage "https://github.com/biezhi/eve"
   version "0.0.4"
   url "https://cdn.2333.blog/eve/mac/eve-0.0.4.tar.gz"
-  sha256 "980e839b3253f0f5c34e2a0e73823b06654c092faf30a19b807d20e161a8cd81"
+  sha256 "df455042b82de3ff16ff5b9b689048bc9ebc7051e52dece56d32dca58f612a9c"
   # depends_on "cmake" => :build
 
   def install
