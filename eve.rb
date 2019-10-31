@@ -5,7 +5,7 @@ class Eve < Formula
   desc "everyday explore, Github / HackNews / V2EX / Medium / Product Hunt."
   homepage "https://github.com/biezhi/eve"
   version "0.0.4"
-  url "https://cdn.2333.blog/eve/mac/eve-0.0.4.tar.gz"
+  url "https://github.com/biezhi/eve/files/1947724/eve-mac64-0.0.4.tar.gz"
   sha256 "93373ced1a227d2c3f07d5c697765ff04dd533a8d65585ae9bbf1fe1f8d0035b"
   # depends_on "cmake" => :build
 
